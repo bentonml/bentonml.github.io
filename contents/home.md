@@ -1,13 +1,10 @@
 
-He is currently pursuing a Master's Degree in computer science, at School of Computer Science and Technology, China University of Mining and Technology.
+The Benton Lab's research focuses on the application of computer science methodologies to interpret how DNA sequences alter genome function and impact human disease risk.
+Our  current interests include the development of new approaches that integrate diverse datasets and advance our understanding of gene regulation.
 
-#### Email
-sli[at]cumt.edu.cn
+#### Contact 
+marylauren_benton[at]baylor.edu
 
-#### Education
-2022.08 - present, Computer Science and Technology, School of Computer Science and Technology, China University of Mining and Technology.
-
-2018.08 - 2022.06, Data Science and Big Data Technology, School of Computer Science and Technology, China University of Mining and Technology.
 
 #### Research Intersts
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Bioinformatics, Gene Regulation, Computational Biology
