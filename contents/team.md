@@ -1,3 +1,4 @@
+
 ### Principal Investigator
 <strong>Mary Lauren Benton </strong>, is an Assistant Professor in the Department of Computer Science at Baylor University. She received her B.S. in Bioinformatics at Baylor University before completing her M.S. and Ph.D. in Biomedical Informatics at Vanderbilt University.
 
@@ -28,3 +29,4 @@
 <strong>Raynah Cheng</strong> (Bioinformatics), Summer 2023
 <strong>Tooba Haris</strong> (Biology), 2020-2023
 <strong>Joseph Yu</strong> (Bioinformatics), 2020-2022
+
